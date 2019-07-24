@@ -1,0 +1,118 @@
+p{
+    font-family: roboto;
+    font-size:16px; 
+}
+.left{
+    float: left;
+    margin-left: 50px;
+    
+   
+}
+.right{
+    float: right;
+    width: 50%;
+}
+#image{
+    float: left;
+    padding: 0px 20px 20px 0px;
+}
+
+#identity{
+    overflow: auto;
+    margin-top: 250px;
+}
+img{
+    max-width: 100%; 
+    height: auto;
+    vertical-align: middle;
+}
+#background-image{
+    background-image: url(img/bat_cover.jpg);
+    height: 350px;
+    color: #fff;
+    padding-top:50px ;
+    margin-top:15px; 
+}
+#content{
+    background-color:rgba(0,0,0,0.7);
+    max-width:450px ;
+    padding: 30px 20px;
+    margin-top: 25px;
+    float:right; 
+    width: 50%;
+    margin-right: 400px;
+    display: inline-block;
+}
+.th{
+     display: inline-block;
+
+    height: auto;
+
+    padding: 4px;
+
+    margin-bottom: 20px;
+
+    background-color: #fff;
+
+    border: 1px solid #a4a4a4;
+
+    text-align: center;
+
+    color: #666;
+
+    margin: 50px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 15px;
+    border: 1px solid #a4a4a4;
+    height: 30px;
+}
+th{
+    text-align: left;
+    background-color: #ececec;
+}
+nav{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px; 
+    overflow: hidden; 
+}
+li>a{
+    display: block;
+    color: #666;
+    padding: 14px 16px;
+    float: right;
+    text-align: left;
+    text-decoration: none;
+}
+.logo{
+    float: left;
+    height: 50px;
+}
+#header{
+    padding: 5px 0px;
+    color:#403F3F;
+    text-align:center;
+    margin: auto;
+    border-bottom: 1px solid;
+}
+ul{
+    list-style-type: none;
+}
+input{
+    padding: 14px 70px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+#Subscribe{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    margin: 4px-4px;
+    padding: 16px 40px;
+}
